@@ -1,0 +1,14 @@
+c:\users\kim.linermark\documents\visual studio 2010\Projects\FileCompare\FileCompare\bin\Debug\FileCompare.exe
+c:\users\kim.linermark\documents\visual studio 2010\Projects\FileCompare\FileCompare\bin\Debug\FileCompare.pdb
+c:\users\kim.linermark\documents\visual studio 2010\Projects\FileCompare\FileCompare\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kim.linermark\documents\visual studio 2010\Projects\FileCompare\FileCompare\obj\x86\Debug\FileCompare.exe
+c:\users\kim.linermark\documents\visual studio 2010\Projects\FileCompare\FileCompare\obj\x86\Debug\FileCompare.pdb
+C:\Users\kim.LINERMARK\Dropbox\FileCompare\FileCompare\obj\x86\Debug\FileCompare.exe
+C:\Users\kim.LINERMARK\Dropbox\FileCompare\FileCompare\obj\x86\Debug\FileCompare.pdb
+C:\Users\kim.LINERMARK\Dropbox\FileCompare\FileCompare\bin\Debug\FileCompare.exe
+C:\Users\kim.LINERMARK\Dropbox\FileCompare\FileCompare\bin\Debug\FileCompare.pdb
+C:\Users\kim.LINERMARK\Dropbox\FileCompare\FileCompare\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kim\Documents\GitHub\FileCompare\FileCompare\obj\x86\Debug\FileCompare.exe
+C:\Users\Kim\Documents\GitHub\FileCompare\FileCompare\obj\x86\Debug\FileCompare.pdb
+C:\Users\Kim\Documents\GitHub\FileCompare\FileCompare\bin\Debug\FileCompare.exe
+C:\Users\Kim\Documents\GitHub\FileCompare\FileCompare\bin\Debug\FileCompare.pdb
